@@ -20,8 +20,8 @@
             "discord": "Maru#5215"
         },
         {
-            "nombre": "",
-            "discord": ""
+            "nombre": "Facundo Tiede",
+            "discord": "iamtiedev#1362"
         }
     ]
 }
