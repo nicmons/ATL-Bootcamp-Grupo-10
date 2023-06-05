@@ -16,8 +16,8 @@
             "discord": "Coraje#5856"
         },
         {
-            "nombre": "",
-            "discord": ""
+            "nombre": "Marianela Orozco",
+            "discord": "Maru#5215"
         },
         {
             "nombre": "",
