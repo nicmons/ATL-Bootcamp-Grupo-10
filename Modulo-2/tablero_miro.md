@@ -1,7 +1,7 @@
 # Metodología Ágil y Herramienta Miro
-Este proyecto utiliza la metodología ágil para la gestión de tareas y la herramienta Miro como plataforma de colaboración. A continuación, se detalla cómo utilizamos ambos en este proyecto:
+Este proyecto utiliza la metodología ágil para la gestión de tareas y la herramienta Miro como plataforma de colaboración. 
 
-## Tablero  Backend-Illuminate
+## Tablero  Backend-Illuminati
 Puedes encontrar nuestro tablero creado con la herramienta Miro [aquí](https://miro.com/app/board/uXjVMCiY-VY=/?share_link_id=41671110684).
 
 ## Herramienta Miro
