@@ -26,6 +26,10 @@
         {
             "nombre": "Ricardo Cuéllar",
             "discord": "Ricardocuellar#8279"
+        },
+        {
+            "nombre": "Cristian Mansilla",
+            "discord": "Cristian Mansilla#6460"
         }
     ]
 }
