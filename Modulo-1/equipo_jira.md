@@ -6,7 +6,7 @@ En este proyecto utilizamos Jira para gestionar nuestras tareas y colaborar en e
 ## Roles del Equipo
 - **Product Owner**: [Marianela Orozco]
 - **Scrum Master**: [Nicolas Monsalve, Isaac Solis]
-- **Desarrolladores**: [Juan Ceballos, Martin Torres, Iromi Bravo, Leonardo Rojas, Gabriel Romero, Facundo, Nahuel Pierini, David, Ricardo Cuéllar, [Cristian Mansilla](https://github.com/CristianMansilla)]
+- **Desarrolladores**: [Juan Ceballos, Martin Torres, Iromi Bravo, Leonardo Rojas, Gabriel Romero, Facundo, Nahuel Pierini, David, Ricardo Cuéllar, [Cristian Mansilla](https://github.com/CristianMansilla), David Cañete]
 
 ## Contribución
 
