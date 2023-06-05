@@ -8,8 +8,8 @@
             "discord": ""
         },
         {
-            "nombre": "",
-            "discord": ""
+            "nombre": "Iromi Bravo",
+            "discord": "iromibravo#8865"
         },
         {
             "nombre": "",
