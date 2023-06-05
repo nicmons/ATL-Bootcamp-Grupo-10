@@ -22,6 +22,10 @@
         {
             "nombre": "Facundo Tiede",
             "discord": "iamtiedev#1362"
+        },
+        {
+            "nombre": "Ricardo Cuéllar",
+            "discord": "Ricardocuellar#8279"
         }
     ]
 }
