@@ -1,5 +1,5 @@
 {
-    "LOVELACE HACKER": [{
+    "BACKEND ILUMINATI": [{
             "nombre": "Nicolas Monsalve G",
             "discord": "NicolasMonsalveGomezz#4555"
         },
