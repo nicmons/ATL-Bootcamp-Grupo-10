@@ -4,8 +4,8 @@
             "discord": "NicolasMonsalveGomezz#4555"
         },
         {
-            "nombre": "",
-            "discord": ""
+            "nombre": "Isaac Solis",
+            "discord": "IsaacDavidS#7761"
         },
         {
             "nombre": "",
