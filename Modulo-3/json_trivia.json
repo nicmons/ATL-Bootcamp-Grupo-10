@@ -1,0 +1,32 @@
+{
+  "pregunta1": {
+    "enunciado": "¿Cuál es el océano más grande del mundo?",
+    "opciones_respuesta": ["Océano Atlántico", "Océano Índico", "Océano Pacífico", "Océano Ártico"],
+    "respuesta_correcta": "Océano Pacífico",
+    "explicacion": "El Océano Pacífico es considerado el océano más grande del mundo, cubriendo aproximadamente el 30% de la superficie terrestre."
+  },
+  "pregunta2": {
+    "enunciado": "¿Cuál es el río más largo del mundo?",
+    "opciones_respuesta": ["Río Amazonas", "Río Nilo", "Río Misisipi", "Río Yangtsé"],
+    "respuesta_correcta": "Río Amazonas",
+    "explicacion": "El Río Amazonas es reconocido como el río más largo del mundo, con una longitud aproximada de 6,400 kilómetros."
+  },
+  "pregunta3": {
+    "enunciado": "¿Cuál es el país más poblado del mundo?",
+    "opciones_respuesta": ["China", "India", "Estados Unidos", "Rusia"],
+    "respuesta_correcta": "China",
+    "explicacion": "China es el país más poblado del mundo, con una población que supera los 1.4 mil millones de habitantes."
+  },
+  "pregunta4": {
+    "enunciado": "¿Quién pintó la Mona Lisa?",
+    "opciones_respuesta": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"],
+    "respuesta_correcta": "Leonardo da Vinci",
+    "explicacion": "La Mona Lisa fue pintada por el renombrado artista italiano Leonardo da Vinci durante el Renacimiento."
+  },
+  "pregunta5": {
+    "enunciado": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "opciones_respuesta": ["Hierro", "Aluminio", "Cobre", "Plomo"],
+    "respuesta_correcta": "Aluminio",
+    "explicacion": "El aluminio es el metal más abundante en la corteza terrestre, representando aproximadamente el 8% de su composición."
+  }
+}
