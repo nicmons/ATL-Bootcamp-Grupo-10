@@ -30,6 +30,10 @@
         {
             "nombre": "Cristian Mansilla",
             "discord": "Cristian Mansilla#6460"
+        },
+        {
+            "nombre": "David Cañete",
+            "discord": "David_25#6784"
         }
     ]
 }
