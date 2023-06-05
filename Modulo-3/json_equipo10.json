@@ -1,0 +1,58 @@
+{
+  "equipo": {
+    "nombre": "Backend Illuminati",
+    "numero": 10,
+    "integrantes": [
+      {
+        "nombre": "Nicolas Monsalve G",
+        "discord": "NicolasMonsalveGomezz#4555",
+        "pais": "Colombia"
+      },
+      {
+        "nombre": "Isaac Solis",
+        "discord": "IsaacDavidS#7761",
+        "pais": ""
+      },
+      {
+        "nombre": "Iromi Bravo",
+        "discord": "iromibravo#8865",
+        "pais": "Colombia"
+      },
+      {
+        "nombre": "Gabriel Francisco Romero Rocha",
+        "discord": "Coraje#5856",
+        "pais": ""
+      },
+      {
+        "nombre": "Marianela Orozco",
+        "discord": "Maru#5215",
+        "pais": ""
+      },
+      {
+        "nombre": "Facundo Tiede",
+        "discord": "iamtiedev#1362",
+        "pais": ""
+      },
+      {
+        "nombre": "",
+        "discord": "",
+        "pais": ""
+      },
+      {
+        "nombre": "",
+        "discord": "",
+        "pais": ""
+      },
+      {
+        "nombre": "",
+        "discord": "",
+        "pais": ""
+      },
+      {
+        "nombre": "",
+        "discord": "",
+        "pais": ""
+      }
+    ]
+  }
+}
