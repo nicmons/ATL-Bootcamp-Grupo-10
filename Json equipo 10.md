@@ -12,8 +12,8 @@
             "discord": "iromibravo#8865"
         },
         {
-            "nombre": "",
-            "discord": ""
+            "nombre": "Gabriel Francisco Romero Rocha",
+            "discord": "Coraje#5856"
         },
         {
             "nombre": "",
