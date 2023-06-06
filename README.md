@@ -48,6 +48,10 @@ En repositorio incuye las actividades desarrolladas en el Bootcampo de ATL Acade
     {
     "nombre": "Juan José Ceballos Navia",
     "discord": "juanjo_0215#3490"
+    },
+    { 
+    "nombre": "Royner Guardo",
+    "discord": "Roy#3483"
     }
 ]
 }
