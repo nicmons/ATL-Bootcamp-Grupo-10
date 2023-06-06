@@ -26,7 +26,7 @@
       {
         "nombre": "Marianela Orozco",
         "discord": "Maru#5215",
-        "pais": ""
+        "pais": "Argentina"
       },
       {
         "nombre": "Facundo Tiede",
@@ -57,6 +57,11 @@
         "nombre": "JRoyner Guardo",
         "discord": "Roy#3483",
         "pais": "Colombia"
+      },
+      {
+        "nombre": "Martin Torres",
+        "discord": "MartinTorres#3750",
+        "pais": "Argentina"
       }
     ]
   }

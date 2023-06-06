@@ -52,6 +52,10 @@ Este repositorio incuye todas las actividades desarrolladas del Bootcamp Java de
     { 
     "nombre": "Royner Guardo",
     "discord": "Roy#3483"
+    },
+    { 
+    "nombre": "Martin torres",
+    "discord": "MartinTorres#3750"
     }
 ]
 }
