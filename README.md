@@ -1,6 +1,6 @@
-# ATL Bootcamp: Grupo 10: Backend Illuminati
+# ATL Bootcamp: Grupo 10 - Backend Illuminati
 
-En repositorio incuye las actividades desarrolladas en el Bootcampo de ATL Academy.
+Este repositorio incuye todas las actividades desarrolladas del Bootcamp Java de ATL Academy.
 
 ## Integrantes
 
@@ -44,7 +44,7 @@ En repositorio incuye las actividades desarrolladas en el Bootcampo de ATL Acade
     {
     "nombre": "David Cañete",
     "discord": "David_25#6784"
-    }
+    },
     {
     "nombre": "Juan José Ceballos Navia",
     "discord": "juanjo_0215#3490"
