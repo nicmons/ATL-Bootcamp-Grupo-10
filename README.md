@@ -60,6 +60,12 @@ Este repositorio incuye todas las actividades desarrolladas del Bootcamp Java de
     { 
     "nombre": "Nahuel Pierini",
     "discord": "nahuel.pierini#5556"
+    },
+    {
+    "nombre": "Federico Lazarte",
+    "discord": "federicolazarte",
+    "email": "fedelazarte2015@gmail.com,
+    "github": "FedericoLazarte"
     }
 ]
 }
