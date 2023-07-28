@@ -64,7 +64,7 @@ Este repositorio incuye todas las actividades desarrolladas del Bootcamp Java de
     {
     "nombre": "Federico Lazarte",
     "discord": "federicolazarte",
-    "email": "fedelazarte2015@gmail.com,
+    "email": "fedelazarte2015@gmail.com",
     "github": "FedericoLazarte"
     }
 ]
